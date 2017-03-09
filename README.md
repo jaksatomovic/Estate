@@ -5,6 +5,7 @@ A Real Estate App - Unfinished project
  - Onboarding Screens
  - Login View with remembering login state
  - Registration View
+ - Custom TextFields
  - Alert View
  - No Storyboards
 
