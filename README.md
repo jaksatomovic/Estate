@@ -21,3 +21,17 @@ A Real Estate App - Unfinished project
 <img src="https://github.com/jaksatomovic/Estate/blob/master/img/screenshot_7.png?raw=true" height="480">
 <img src="https://github.com/jaksatomovic/Estate/blob/master/img/screenshot.png?raw=true" height="480">
 <img src="https://github.com/jaksatomovic/Estate/blob/master/img/Simulator%20Screen%20Shot%2009%20Mar%202017%2013.11.01.png?raw=true" height="480">
+<h2>Donations</h2>
+
+If you think that any information you obtained here is worth of some money and are willing to pay for it, feel free to send any amount through paypal.
+
+<table>
+<tr><th>Paypal</th></tr>
+<tbody>
+<tr>
+<td><a href="https://www.paypal.me/jaksatomovic" style="text-align:center;display:block">
+<img src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png" alt="Buy me a beer" />
+</a></td>
+</tr>
+</tbody>
+</table>
